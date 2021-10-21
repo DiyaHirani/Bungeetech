@@ -1,0 +1,45 @@
+occupation,"occupation
+administrator    21
+artist           19
+doctor           28
+educator         23
+engineer         22
+entertainment    15
+executive        22
+healthcare       22
+homemaker        20
+lawyer           21
+librarian        23
+marketing        24
+none             11
+other            13
+programmer       20
+retired          51
+salesman         18
+scientist        23
+student           7
+technician       21
+writer           18
+Name: age, dtype: int64","occupation
+administrator    70
+artist           48
+doctor           64
+educator         63
+engineer         70
+entertainment    50
+executive        69
+healthcare       62
+homemaker        50
+lawyer           53
+librarian        69
+marketing        55
+none             55
+other            64
+programmer       63
+retired          73
+salesman         66
+scientist        55
+student          42
+technician       55
+writer           60
+Name: age, dtype: int64"
